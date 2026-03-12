@@ -72,12 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Hamza GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaAliCoder&show_icons=true&theme=tokyonight)
-
----
-
 ## 📬 Connect With Me
 
 💼 **LinkedIn**  
