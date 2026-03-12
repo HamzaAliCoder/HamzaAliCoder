@@ -79,7 +79,7 @@ You can view the full list of my certifications on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Ali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-ali-software-engineer/)
 
 🌐 **Portfolio**  
-https://hamzaalidev.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge&logo=vercel)](https://hamza-ali-portfolio.vercel.app/)
 
 📧 **Email**  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alihamza.softeng@gmail.com)
