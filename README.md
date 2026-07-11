@@ -95,4 +95,7 @@ You can view the full list of my certifications on LinkedIn:
 📧 **Email**  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alihamza.softeng@gmail.com)
 
+📧 **My Platform**  
+[![MHM](https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge&logo=vercel)](https://muslimshelpmuslims.co.uk/feed)
+
 ---
